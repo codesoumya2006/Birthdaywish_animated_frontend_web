@@ -26,7 +26,7 @@ check the live demo: https://birthday-webapp.netlify.app/
 ---
 
 ## 📁 Project Structure
-
+```bash
 🎁 birthday-surprise/
 ├── index.html                    # Main HTML file (contains HTML, CSS, and JS all in one)
 ├── pic1.jpg                      # Rotating photo gallery image 1
